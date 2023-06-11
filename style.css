@@ -1,0 +1,15 @@
+.relatively{
+    background-image: url(./images/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+  
+    height: 100vh;
+    width: 100vw;
+  }
+.second-bg{
+  background-image: url(./images/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}
